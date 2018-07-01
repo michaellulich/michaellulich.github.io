@@ -2585,7 +2585,8 @@ input, select, textarea {
 		top: 0;
 		width: 35%;
 	}
-
+		
+		}
 		#header > * {
 			-moz-flex-shrink: 0;
 			-webkit-flex-shrink: 0;
